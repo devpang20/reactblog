@@ -1,0 +1,25 @@
+body{
+    padding:0;
+    margin:0;
+    list-style: none;
+}
+
+.header{
+    background-color:gray;
+    text-align: center;
+    border: 2px solid black;
+}
+
+.common{
+    display:inline-block;
+}
+
+.logo{
+    float:left;
+}
+
+
+.login{
+    float:right;
+}
+

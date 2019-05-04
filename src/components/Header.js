@@ -4,14 +4,14 @@ import './Header.css';
 class Header extends Component {
     render() {
         return (
-            <div>
-                <div className = 'logo'>
+            <div className = "header ">
+                <div className = 'logo common'>
                     로고가 들어갈 자리
                 </div>
-                <div className = 'blog_name'>
+                <div className = 'blog_name common'>
                     ReactBlog
                 </div>
-                <div className = 'login'>
+                <div className = 'login common'>
                     로그인
                 </div>
             </div>
